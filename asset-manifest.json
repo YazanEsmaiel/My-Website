@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/My-Website/static/css/main.7cca48b9.css",
+    "main.js": "/My-Website/static/js/main.d8c8ccc9.js",
+    "static/js/453.ed3810f9.chunk.js": "/My-Website/static/js/453.ed3810f9.chunk.js",
+    "static/media/yazan.png": "/My-Website/static/media/yazan.e5ebf85a9fcc915093f7.png",
+    "static/media/ErfahrungCv2.jpg": "/My-Website/static/media/ErfahrungCv2.66837fce08f1ef4b6a02.jpg",
+    "static/media/ErfahrungCv.jpg": "/My-Website/static/media/ErfahrungCv.451301270df1b8626c31.jpg",
+    "static/media/ErfahrungCv4.jpg": "/My-Website/static/media/ErfahrungCv4.fe88f226831dd165fbee.jpg",
+    "static/media/ErfahrungCv3.jpg": "/My-Website/static/media/ErfahrungCv3.27f570c478cb2a5c6cba.jpg",
+    "index.html": "/My-Website/index.html",
+    "main.7cca48b9.css.map": "/My-Website/static/css/main.7cca48b9.css.map",
+    "main.d8c8ccc9.js.map": "/My-Website/static/js/main.d8c8ccc9.js.map",
+    "453.ed3810f9.chunk.js.map": "/My-Website/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cca48b9.css",
+    "static/js/main.d8c8ccc9.js"
+  ]
+}
