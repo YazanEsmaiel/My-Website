@@ -1,16 +1,7 @@
-import myImage from './image/yazan.png';
-// import './App.css';
-
 export const MyImage = () => {
-
-    const imageVariable = myImage
-    return(
-        
-        
+    return (
         <div>
-        <img id="yazanImage" src={imageVariable}></img>
-
+            <img id="yazanImage" src={`${process.env.PUBLIC_URL}/images/yazan.png`} alt="Yazan" />
         </div>
-            
-    )
-}
+    );
+};
